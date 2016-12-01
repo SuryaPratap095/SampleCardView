@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "908635103753",
+    "firebase_url": "https://sampleproject-26ab6.firebaseio.com",
+    "project_id": "sampleproject-26ab6",
+    "storage_bucket": "sampleproject-26ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908635103753:android:fb04651ad7b9b6d6",
+        "android_client_info": {
+          "package_name": "com.example.suryasolanki.samplecardview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908635103753-0frmh6fhs5808fjbbsvgnonqkso24o32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUscME52xbw5Kr8ysE7SGOsjHGSOeRur8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
